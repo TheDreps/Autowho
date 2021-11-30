@@ -1,0 +1,16 @@
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.AssemblyInfo.cs
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.exe
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.txt
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.deps.json
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.runtimeconfig.json
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\ref\Autowho.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\Autowho.pdb
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\ref\Autowho.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.pdb
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Release\net6.0\Autowho.genruntimeconfig.cache

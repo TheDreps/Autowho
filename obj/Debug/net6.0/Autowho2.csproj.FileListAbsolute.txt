@@ -1,0 +1,15 @@
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.exe
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.deps.json
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.runtimeconfig.json
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\ref\Autowho2.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.pdb
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.AssemblyInfo.cs
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\ref\Autowho2.dll
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.pdb
+C:\Users\lewis\source\repos\Autowho2\Autowho2\obj\Debug\net6.0\Autowho2.genruntimeconfig.cache
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho.ini

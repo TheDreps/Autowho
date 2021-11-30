@@ -1,0 +1,3 @@
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\publish\win-x64\Autowho.pdb
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\publish\win-x64\Autowho.txt
+C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Release\net6.0\publish\win-x64\Autowho.exe

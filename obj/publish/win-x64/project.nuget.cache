@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3tiNK5wKW1iZf8TaVMFdHXIzBWyG4+PL4d6Ne0ZHwnyzTGZCxbjlTvDBDtpm3Ux8I/tCAnPCEhrjhia+wcx1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lewis\\source\\repos\\Autowho2\\Autowho2\\Autowho.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lewis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\lewis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\lewis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Autowho2</id>
+    <version>1.0.0</version>
+    <authors>Autowho2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.runtimeconfig.json" target="lib\net6.0\Autowho2.runtimeconfig.json" />
+    <file src="C:\Users\lewis\source\repos\Autowho2\Autowho2\bin\Debug\net6.0\Autowho2.dll" target="lib\net6.0\Autowho2.dll" />
+  </files>
+</package>

@@ -1,0 +1,2 @@
+﻿key: 75
+log: default
